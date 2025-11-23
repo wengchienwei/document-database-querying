@@ -1,14 +1,28 @@
-# document-database-querying
-Given the open food facts dataset, using Studio 3T to complete document-based querying
+# Document Database Querying
 
-## Summary
-This assignment demonstrated proficiency in:
-- MongoDB query syntax and operators
-- Aggregatin pipeline
-- Nested documents querying
-- Data type handling
-- Array operations
+MongoDB assignment using Open Food Facts dataset with Studio 3T.
 
-**Total Queries:** 16
-**Collection Size:** 4,802 products
-**Data Source:** Open Food Facts sample dataset (https://world.openfoodfacts.org/)
+## Assignment Overview
+- **Total Queries:** 16
+- **Collection Size:** 4,802 products
+- **Topics Covered:** Query operators, aggregation pipeline, nested documents, array operations
+
+## Key Learnings
+- MongoDB query syntax and operators ($in, $all, $size, $expr)
+- Aggregation pipeline ($group, $match, $sort, $count)
+- Nested document querying (dot notation)
+- Data type handling and conversions
+
+## Files
+- `mongodb_assignment_chien_wei_weng.pdf` - Complete assignment report
+- `open_food_facts_queries.js` - All MongoDB queries
+
+## Technologies
+- MongoDB 2.5.8
+- Studio 3T
+- Open Food Facts dataset (https://world.openfoodfacts.org/)
+
+## Results Highlights
+- 131 unique creators
+- 1,118 products with 20+ ingredients
+- Only 3 products are both chocolate AND dessert
