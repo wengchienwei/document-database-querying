@@ -1,6 +1,6 @@
 # Document Database Querying
 
-MongoDB assignment using Open Food Facts dataset with Studio 3T.
+MongoDB querying using Open Food Facts dataset with Studio 3T.
 
 ## Assignment Overview
 - **Total Queries:** 16
@@ -14,7 +14,7 @@ MongoDB assignment using Open Food Facts dataset with Studio 3T.
 - Data type handling and conversions
 
 ## Files
-- `mongodb_assignment_chien_wei_weng.pdf` - Complete assignment report
+- `mongodb_querying_summary.pdf` - Complete assignment report
 - `open_food_facts_queries.js` - All MongoDB queries
 
 ## Technologies
