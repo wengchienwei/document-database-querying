@@ -2,7 +2,7 @@
 
 MongoDB querying using Open Food Facts dataset with Studio 3T.
 
-## Assignment Overview
+## Overview
 - **Total Queries:** 16
 - **Collection Size:** 4,802 products
 - **Topics Covered:** Query operators, aggregation pipeline, nested documents, array operations
@@ -26,3 +26,14 @@ MongoDB querying using Open Food Facts dataset with Studio 3T.
 - 131 unique creators
 - 1,118 products with 20+ ingredients
 - Only 3 products are both chocolate AND dessert
+
+---
+
+## Author
+
+**Chien-Wei WENG**  
+MSc Data Sciences and Business Analytics  
+CentraleSupélec × ESSEC Business School  
+
+*Academic Project | Big Data Algorithms, Techniques & Platforms (Fall 2025)*  
+*Instructor: Prof. Francesca Bugiotti (CentraleSupélec)*
